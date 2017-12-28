@@ -1,0 +1,1 @@
+print("Napoleon once said, \"a person who made up his mind to do somethings, will never say impossible.\"")
